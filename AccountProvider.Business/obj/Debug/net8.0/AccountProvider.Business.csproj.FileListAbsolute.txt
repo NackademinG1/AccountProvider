@@ -1,0 +1,11 @@
+C:\Users\fredd\OneDrive\Desktop\AccountProvider\AccountProvider.Business\bin\Debug\net8.0\AccountProvider.Business.deps.json
+C:\Users\fredd\OneDrive\Desktop\AccountProvider\AccountProvider.Business\bin\Debug\net8.0\AccountProvider.Business.dll
+C:\Users\fredd\OneDrive\Desktop\AccountProvider\AccountProvider.Business\bin\Debug\net8.0\AccountProvider.Business.pdb
+C:\Users\fredd\OneDrive\Desktop\AccountProvider\AccountProvider.Business\obj\Debug\net8.0\AccountProvider.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fredd\OneDrive\Desktop\AccountProvider\AccountProvider.Business\obj\Debug\net8.0\AccountProvider.Business.AssemblyInfoInputs.cache
+C:\Users\fredd\OneDrive\Desktop\AccountProvider\AccountProvider.Business\obj\Debug\net8.0\AccountProvider.Business.AssemblyInfo.cs
+C:\Users\fredd\OneDrive\Desktop\AccountProvider\AccountProvider.Business\obj\Debug\net8.0\AccountProvider.Business.csproj.CoreCompileInputs.cache
+C:\Users\fredd\OneDrive\Desktop\AccountProvider\AccountProvider.Business\obj\Debug\net8.0\AccountProvider.Business.dll
+C:\Users\fredd\OneDrive\Desktop\AccountProvider\AccountProvider.Business\obj\Debug\net8.0\refint\AccountProvider.Business.dll
+C:\Users\fredd\OneDrive\Desktop\AccountProvider\AccountProvider.Business\obj\Debug\net8.0\AccountProvider.Business.pdb
+C:\Users\fredd\OneDrive\Desktop\AccountProvider\AccountProvider.Business\obj\Debug\net8.0\ref\AccountProvider.Business.dll
